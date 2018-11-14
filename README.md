@@ -1,2 +1,0 @@
-# WeatherApiAxiosReact
-Created with CodeSandbox

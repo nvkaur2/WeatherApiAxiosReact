@@ -1,0 +1,9 @@
+.Button {
+  font-size: 14px;
+  background-color: SteelBlue;
+  box-shadow: inset 0 1px 1px LightCyan;
+  border-color: RoyalBlue;
+  border-radius: 5px;
+  padding: 5px 15px;
+  margin-left: 10px;
+}

@@ -1,0 +1,16 @@
+.Input {
+  border-radius: 3px;
+  padding: 10px;
+  border: 1px solid SteelBlue;
+  margin: 10px;
+  font-size: 12px;
+  color: DodgerBlue;
+}
+
+.Input::placeholder {
+  font-size: 16px;
+  color: LightBlue;
+}
+.Input:hover {
+  background-color: LightCyan;
+}
